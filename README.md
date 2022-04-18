@@ -1,16 +1,15 @@
-# flutter1
+# Flutter_Full_Learn
 
-A new Flutter project.
+Seviye seviye flutter konu ve açıklama arşivi
 
-## Getting Started
+## Kod içerikleri
 
-This project is a starting point for a Flutter application.
+Bu flutter kod arşivindeki konular seviye seviye ayrılmıştır
 
-A few resources to get you started if this is your first Flutter project:
+Kodlar 101,202,303,404 olarak 4 farklı klasör içerisinde yer almaktadır. Kodlar HardwareAndro adlı youtbe kanalı üzerinde Temelden Zirveye Flutter kursu içerisinde yazılan kodlardır. Bu kodlar üzerinde önemli görülmüş kısımları yorum satırları ile belirtilmiş halde ve kişisel düzeltilmesi gerekitiğini düşündüğüm düzenlemeler yapılarak yayınlamaktadır. Eğitim içeriğinin olduğu Youtube kanalı ve eğitim içersinde kullanılan kodların orijinalleri bir alt satırda verilecektir.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Youtube : HardwareAndro Temelden Zirveye Flutter](https://www.youtube.com/watch?v=lpvuM9lo3HU&list=PL1k5oWAuBhgXdw1BbxVGxxWRmkGB1C11l&index=1)
+- [Github : Kodların Orijinal Halleri](https://github.com/VB10/Flutter-Full-Learn)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kodlar eğitim üzerinde çalışıldıkça güncellencektir.
+Kodların yorum satırları şahsi kendi notlarım halinde paylaşılmıştır ve bu kodlar ve açıklamalar %100 doğruluk içermeyebilir.
